@@ -5,7 +5,7 @@
 ---
 
 - **职场**
-    - [写邮件要注意哪些](https://github.com/wangxinbo1987/notes/blob/master/email.md)
+    - [写邮件要注意哪些](https://github.com/wangxinbo1987/notes/blob/master/business/email.md)
 
 
 
