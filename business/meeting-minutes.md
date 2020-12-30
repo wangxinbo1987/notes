@@ -1,6 +1,6 @@
 ### 这篇笔记聊聊如何做会议纪要
 
-![](/static/img/meeting-1.png)
+![假装这里有一张图片](/static/img/meeting-1.png)
 
 一个言之有物的会议通常包含这么几个部分
 
