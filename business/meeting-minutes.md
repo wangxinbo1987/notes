@@ -1,6 +1,6 @@
 ### 这篇笔记聊聊如何做会议纪要
 
-![meeting-1.png](/static/img/meeting-1.png)
+![](/static/img/meeting-1.png)
 
 一个言之有物的会议通常包含这么几个部分
 
@@ -48,6 +48,12 @@
     - 这一点我前面也提到了，结论才是会议的成果，过程不是
 - 会议结束后，第一时间发出来会议纪要
     - 如果可能，最好在半小时之内发出来，如果需要整理的内容很多，也尽量要保证当天发出来
+
+---
+
+#### 相关笔记
+
+- [如何做会议计划](https://github.com/wangxinbo1987/notes/blob/master/business/meeting-agenda.md)
 
 
 [看完了，回到目录](https://github.com/wangxinbo1987/notes)
