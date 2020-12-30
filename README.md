@@ -7,7 +7,7 @@
 - **技术**
     - [如何做Feature Design](https://github.com/wangxinbo1987/notes/blob/master/tech/feature-design.md)
 - **团队管理**
-    - 待续
+    - [如何打造高效团队](https://github.com/wangxinbo1987/notes/blob/master/leadership/efficient-team.md)
 - **思维方式**
     - 待续
 - **职场心得**
