@@ -4,7 +4,7 @@
 
 领导与下属的周期性One On One谈什么，怎么谈？
 
-之前讲到的[心理契约](https://github.com/wangxinbo1987/notes/blob/master/leadership/psychological-contract.md)，在具体操作层面，需要让下属清楚，你对他有哪些期望，他可以在哪些方面做得更好，例如我们可以按照以下结构来组织One On One
+之前讲到的[心理契约](psychological-contract.md)，在具体操作层面，需要让下属清楚，你对他有哪些期望，他可以在哪些方面做得更好，例如我们可以按照以下结构来组织One On One
 
 - 工作回顾
 - 个人优势、改进点
