@@ -47,4 +47,4 @@
 - 会后把表整理好，以书面的形式发给员工，以备下次会谈参考
 
 
-[看完了，回到目录](https://github.com/wangxinbo1987/notes)
+[看完了，回到目录](/README.md)
