@@ -8,6 +8,7 @@
     - [如何做Feature Design](https://github.com/wangxinbo1987/notes/blob/master/tech/feature-design.md)
 - **团队管理**
     - [领导与下属的心理契约](https://github.com/wangxinbo1987/notes/blob/master/leadership/psychological-contract.md)
+    - [One On One 谈什么](https://github.com/wangxinbo1987/notes/blob/master/leadership/one-on-one.md)
     - [如何打造高效团队](https://github.com/wangxinbo1987/notes/blob/master/leadership/efficient-team.md)
 - **思维方式**
     - 待续
