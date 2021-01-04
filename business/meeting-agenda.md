@@ -39,7 +39,7 @@
 
 #### 相关笔记
 
-- [如何做会议纪要](https://github.com/wangxinbo1987/notes/blob/master/business/meeting-minutes.md)
+- [如何做会议纪要](meeting-minutes.md)
 
 
-[看完了，回到目录](https://github.com/wangxinbo1987/notes)
+[看完了，回到目录](/README.md)

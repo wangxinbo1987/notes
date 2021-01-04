@@ -53,7 +53,7 @@
 
 #### 相关笔记
 
-- [如何做会议计划](https://github.com/wangxinbo1987/notes/blob/master/business/meeting-agenda.md)
+- [如何做会议计划](meeting-agenda.md)
 
 
-[看完了，回到目录](https://github.com/wangxinbo1987/notes)
+[看完了，回到目录](/README.md)

@@ -72,4 +72,4 @@
 所谓的“**慢即是快**”讲的就是这个道理
 
 
-[看完了，回到目录](https://github.com/wangxinbo1987/notes)
+[看完了，回到目录](/README.md)

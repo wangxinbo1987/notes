@@ -60,4 +60,4 @@
 	- 告知非紧急情况下的替代联系人的联系方式
 	
 
-[看完了，回到目录](https://github.com/wangxinbo1987/notes)
+[看完了，回到目录](/README.md)
