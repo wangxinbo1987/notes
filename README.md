@@ -10,6 +10,7 @@
     - [领导与下属的心理契约](leadership/psychological-contract.md)
     - [One On One 谈什么](leadership/one-on-one.md)
     - [如何打造高效团队](leadership/efficient-team.md)
+    - ["脚手架"式的帮助](leadership/scaffold.md)
     - [敬业度调查问卷](leadership/satisfaction-questionnaire.md)
 - **思维方式**
     - 待续
