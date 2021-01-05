@@ -5,17 +5,18 @@
 ---
 
 - **技术**
-    - [如何做Feature Design](https://github.com/wangxinbo1987/notes/blob/master/tech/feature-design.md)
+    - [如何做Feature Design](tech/feature-design.md)
 - **团队管理**
-    - [领导与下属的心理契约](https://github.com/wangxinbo1987/notes/blob/master/leadership/psychological-contract.md)
-    - [One On One 谈什么](https://github.com/wangxinbo1987/notes/blob/master/leadership/one-on-one.md)
-    - [如何打造高效团队](https://github.com/wangxinbo1987/notes/blob/master/leadership/efficient-team.md)
+    - [领导与下属的心理契约](leadership/psychological-contract.md)
+    - [One On One 谈什么](leadership/one-on-one.md)
+    - [如何打造高效团队](leadership/efficient-team.md)
+    - [敬业度调查问卷](leadership/satisfaction-questionnaire.md)
 - **思维方式**
     - 待续
 - **职场心得**
-    - [写邮件要注意哪些](https://github.com/wangxinbo1987/notes/blob/master/business/email.md)
-    - [如何做会议计划](https://github.com/wangxinbo1987/notes/blob/master/business/meeting-agenda.md)
-    - [如何做会议纪要](https://github.com/wangxinbo1987/notes/blob/master/business/meeting-minutes.md)
+    - [写邮件要注意哪些](business/email.md)
+    - [如何做会议计划](business/meeting-agenda.md)
+    - [如何做会议纪要](business/meeting-minutes.md)
 
 
 
