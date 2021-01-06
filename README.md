@@ -13,7 +13,7 @@
     - ["脚手架"式的帮助](leadership/scaffold.md)
     - [敬业度调查问卷](leadership/satisfaction-questionnaire.md)
 - **思维方式**
-    - 待续
+    - [金字塔原理](thinking/pyramid.md)
 - **职场心得**
     - [写邮件要注意哪些](business/email.md)
     - [如何做会议计划](business/meeting-agenda.md)
