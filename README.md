@@ -5,7 +5,10 @@
 ---
 
 - **技术**
-    - [如何做Feature Design](tech/feature-design.md)
+    - **计算机原理**
+        - [关于计算机时间](tech/computer-time.md)
+    - **工程开发**
+        - [如何做Feature Design](tech/feature-design.md)
 - **团队管理**
     - [领导与下属的心理契约](leadership/psychological-contract.md)
     - [One On One 谈什么](leadership/one-on-one.md)
@@ -18,7 +21,5 @@
     - [写邮件要注意哪些](business/email.md)
     - [如何做会议计划](business/meeting-agenda.md)
     - [如何做会议纪要](business/meeting-minutes.md)
-
-
 
 未完待续。。。
