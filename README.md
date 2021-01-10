@@ -9,6 +9,8 @@
         - [关于计算机时间](tech/computer-time.md)
     - **工程开发**
         - [如何做Feature Design](tech/feature-design.md)
+    - **Java笔记**
+        - [关于Java日志组件的选择](tech/java-logging.md)
 - **团队管理**
     - [领导与下属的心理契约](leadership/psychological-contract.md)
     - [One On One 谈什么](leadership/one-on-one.md)
