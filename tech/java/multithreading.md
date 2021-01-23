@@ -68,6 +68,12 @@ Java内存模型规定所有成员变量都需要存储在主内存中，线程�
 
 或者改变自定义标志位的值，在代码中通过监测标志位的值来判断是否有中断
 
+#### 守护线程
+
+Java程序入口是由JVM启动main线程，main线程又可以启动其他线程。当所有线程都运行结束时，JVM退出，进程结束。可以通过调用`t.setDaemon(true)`将目标线程设置为守护线程`Daemon Thread`，JVM退出时不会考虑守护线程是否结束，即守护线程可以在JVM退出后继续存在。
+
+> 需要注意的是，守护线程不能持有任何需要关闭的资源，例如打开文件等，因为JVM退出时，守护线程没有任何机会来关闭文件，这会导致数据丢失
+
 ---
 
 #### 示例
@@ -90,7 +96,6 @@ public class SimpleThread extends Thread {
                 System.out.println("Thread " + this.getName() + " interrupted");
             }
         }
-
 
         System.out.println("Thread " + this.getName() + " finished");
     }
@@ -157,6 +162,13 @@ public class ThreadLab {
         } catch (InterruptedException e) {
             System.out.println("Sub thread interrupted");
         }
+
+        /**
+         * this is a daemon thread, which will not be terminated when JVM quit
+         */
+        Thread t3 = new SimpleThread();
+        t3.setDaemon(true);
+        t3.start();
 
         System.out.println("Main thread finished");
     }
