@@ -7,6 +7,7 @@
 - **技术篇**
     - **计算机原理**
         - [关于计算机时间](tech/computer-time.md)
+        - [CPU缓存模型及伪共享](tech/cpu-cache.md)
     - **工程开发**
         - [如何做Feature Design](tech/feature-design.md)
     - **Java通用笔记**
