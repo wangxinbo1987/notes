@@ -8,6 +8,7 @@
     - **计算机原理**
         - [关于计算机时间](tech/computer-time.md)
         - [CPU缓存模型及伪共享](tech/cpu-cache.md)
+        - [常用HTTP Code](tech/http-code.md)
     - **工程开发**
         - [如何做Feature Design](tech/feature-design.md)
     - **Java通用笔记**
